@@ -14,3 +14,12 @@ Why? Easy syntax, extensive documentation, great community, availability of reso
 Git is a powerful version control system that every single person in the STEM field should learn.
 GitHub is a way of showing the world you know something. Simply writing, I know Python will not be enough for companies.
 You have to prove you know the Python by showing your projects.
+
+# Introduction to Machine Learning 
+## Learn the following Machine Learning related terms
+Supervised Learning | Unsupervised Learning | Semi-supervised Learning | Reinforcement Learning
+Feature Extraction | Feature Selection
+Noise | Outliers | Garbage Data
+Batch Learning | Online Learning
+Overfitting | Regularization | Underfitting
+Training Dataset | Testing Dataset
