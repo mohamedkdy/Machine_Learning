@@ -23,3 +23,6 @@ Noise | Outliers | Garbage Data
 Batch Learning | Online Learning
 Overfitting | Regularization | Underfitting
 Training Dataset | Testing Dataset
+
+## Go over the basic calculus
+One big misconsumption on Machine Learning that discourages people is Calculus. You don't have to be a Calculus expert to start ML. This step is not necessary unless you want to get into details of the algorithm.
