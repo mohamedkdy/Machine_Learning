@@ -13,6 +13,6 @@ Supervised Learning | Unsupervised Learning | Reinforcement Learning
 
 ## What is Artificial Intelligence?
 
-## Big Data?
+## What is Big Data? 
 
 
