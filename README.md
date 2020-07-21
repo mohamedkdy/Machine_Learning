@@ -15,4 +15,5 @@ Supervised Learning | Unsupervised Learning | Reinforcement Learning
 
 ## What is Big Data? 
 
+# Linear Algebra
 
